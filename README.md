@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @randomrawat
-- ⚡Touch Typing @120 WPM
+- ⚡Touch Typing @130 WPM
 - 👀 I’m interested in web development and competitive programming
 - 🌱 I’m currently learning server-side programming
 - ⚡ Fun fact: There are more than 700 coding languages out there!
